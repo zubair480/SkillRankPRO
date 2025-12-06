@@ -1,0 +1,101 @@
+Applicant: asd
+Java Developer: 20.0
+Data Analyst: 20.0
+AI Engineer: 10.0
+---------------------------
+Applicant: 1 - 1
+Email: 1
+Best Fit Role: Java Developer (Score: 59.14285714285714)
+All Role Scores
+Java Developer : 59.14285714285714
+Data Analyst : 33.666666666666664
+AI Engineer : 27.0
+======================================
+Applicant: 1 - 1
+Email: 1
+Best Fit Role: Java Developer (Score: 64.85714285714286)
+All Role Scores
+Java Developer : 64.85714285714286
+Data Analyst : 33.666666666666664
+AI Engineer : 27.0
+======================================
+Applicant: 1 - 1
+Email: 1
+Best Fit Role: Java Developer (Score: 74.85714285714286)
+All Role Scores
+Java Developer : 74.85714285714286
+Data Analyst : 33.666666666666664
+AI Engineer : 27.0
+======================================
+Applicant: 1 - 1
+Email: 1
+Best Fit Role: Java Developer (Score: 68.85714285714286)
+All Role Scores
+Java Developer : 68.85714285714286
+Data Analyst : 59.33333333333333
+AI Engineer : 42.42857142857143
+======================================
+Applicant: 1 - 1
+Email: 1
+Best Fit Role: Java Developer (Score: 68.85714285714286)
+All Role Scores
+Java Developer : 68.85714285714286
+Data Analyst : 59.33333333333333
+AI Engineer : 42.42857142857143
+======================================
+Applicant: 1 - 1
+Email: 1
+Best Fit Role: Java Developer (Score: 74.85714285714286)
+All Role Scores
+Java Developer : 74.85714285714286
+Data Analyst : 33.666666666666664
+AI Engineer : 27.0
+======================================
+Applicant: 80 - Zubair
+Email: z@gmail.com
+Best Fit Role: Java Developer (Score: 53.857142857142854)
+All Role Scores
+Java Developer : 53.857142857142854
+Data Analyst : 17.666666666666664
+AI Engineer : 11.0
+======================================
+Applicant: 80 - Zubair
+Email: z@gmail.com
+Best Fit Role: Java Developer (Score: 53.857142857142854)
+All Role Scores
+Java Developer : 53.857142857142854
+Data Analyst : 17.666666666666664
+AI Engineer : 11.0
+======================================
+Applicant: 80 - Zubair
+Email: z@gmail.com
+Best Fit Role: Java Developer (Score: 73.85714285714286)
+All Role Scores
+Java Developer : 73.85714285714286
+Data Analyst : 37.666666666666664
+AI Engineer : 31.0
+======================================
+Applicant: 80 - Zubair
+Email: z@gmail.com
+Best Fit Role: Java Developer (Score: 73.85714285714286)
+All Role Scores
+Java Developer : 73.85714285714286
+Data Analyst : 37.666666666666664
+AI Engineer : 31.0
+======================================
+Applicant: 90 - Alice
+Email: alice@company.com
+Best Fit Role: Java Developer (Score: 73.85714285714286)
+All Role Scores
+Java Developer : 73.85714285714286
+Data Analyst : 37.666666666666664
+AI Engineer : 31.0
+======================================
+Applicant: 80 - Zubair
+Email: z@gmail.com
+Best Fit Role: Java Developer (Score: 73.85714285714286)
+All Role Scores
+Java Developer : 73.85714285714286
+Data Analyst : 37.666666666666664
+AI Engineer : 31.0
+======================================

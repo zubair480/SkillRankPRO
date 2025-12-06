@@ -1,0 +1,30 @@
+Johnathan Miles Carter
+Seattle WA
+johnathan.carter@example.com
+(425) 555 9821
+PROFESSIONAL SUMMARY
+Results driven Software Engineer with strong proficiency in Java and enterprise grade backend
+systems. Demonstrated capacity to deliver scalable solutions across distributed environments. Skilled
+in SDLC execution code optimization and cross functional collaboration.
+TECHNICAL SKILLS
+Java 17 Spring Boot Hibernate JPA Maven Gradle REST APIs Microservices Docker Kubernetes
+MySQL PostgreSQL Redis Git Jenkins AWS EC2 S3 Lambda CloudFormation
+PROFESSIONAL EXPERIENCE
+Backend Software Engineer ApexLogic Solutions Seattle WA 2022 Present
+• Built and optimized Java based microservices handling 50k+ daily transactions.
+• Improved API response time by 38 percent through query optimization and caching with Redis.
+• Integrated Spring Security with JWT based authentication for internal service communication.
+• Automated CI CD workflows using Jenkins and Git based deployment triggers.
+• Collaborated with cloud team to containerize legacy modules and migrate them to AWS ECS.
+Java Developer Orion Data Systems Bellevue WA 2019 2022
+• Developed REST endpoints for enterprise workflow engine using Spring Boot.
+• Refactored legacy monolith applications into modular components improving maintainability.
+• Wrote JUnit and Mockito based test suites increasing overall test coverage from 42 percent to 81
+percent.
+• Coordinated with product managers to implement business logic aligned with stakeholder
+requirements.
+EDUCATION
+BSc Computer Science University of Washington 2019
+CERTIFICATIONS
+AWS Developer Associate (DVA C02)
+Oracle Certified Professional Java SE 11 Developer

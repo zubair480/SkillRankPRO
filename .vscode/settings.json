@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib\\pdfbox-app-2.0.35.jar",
+        "c:\\Users\\aryab\\OneDrive\\Documents\\Java_ATS\\lib\\commons-logging-1.2.jar"
+    ]
+}
