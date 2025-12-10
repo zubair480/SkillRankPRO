@@ -2,6 +2,7 @@ package com.resumerank;
 
 import java.util.*;
 
+/** Extracts technical skills from resume text */
 public class SkillExtractor {
 
     private List<String> masterSkills = Arrays.asList(
@@ -11,10 +12,10 @@ public class SkillExtractor {
             "machine learning", "ml", "deep learning", "nlp"
     );
 
+    /** Extracts matching skills from resume text */
     public List<String> extractSkills(String text) {
         List<String> found = new ArrayList<>();
         if (text == null) return found;
-
         String lower = text.toLowerCase();
         for (String skill : masterSkills) {
             if (lower.contains(skill.toLowerCase())) {

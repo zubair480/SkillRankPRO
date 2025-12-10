@@ -99,3 +99,11 @@ Java Developer : 73.85714285714286
 Data Analyst : 37.666666666666664
 AI Engineer : 31.0
 ======================================
+Applicant: 80 - Zubair
+Email: z@gmail.com
+Best Fit Role: Java Developer (Score: 73.85714285714286)
+All Role Scores
+Java Developer : 73.85714285714286
+Data Analyst : 37.666666666666664
+AI Engineer : 31.0
+======================================

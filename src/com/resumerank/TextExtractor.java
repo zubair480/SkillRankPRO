@@ -10,16 +10,13 @@ public class TextExtractor {
 
     public static void main(String[] args) {
         try {
-            // 1) Change this to your actual PDF path
             File pdfFile = new File("C:\\Users\\aryab\\Downloads\\JavaDeveloperSampleResume.pdf");
 
             if (!pdfFile.exists()) {
                 System.out.println("File not found: " + pdfFile.getAbsolutePath());
                 return;
-                
             }
 
-            // 2) Load PDF
             PDDocument document = PDDocument.load(pdfFile);
 
             if (!document.isEncrypted()) {
@@ -31,7 +28,6 @@ public class TextExtractor {
             }
 
             document.close();
-
         } catch (IOException e) {
             e.printStackTrace();
         }

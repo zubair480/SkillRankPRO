@@ -2,10 +2,11 @@ package com.resumerank;
 
 import java.util.*;
 
+/** Manages job role definitions and their requirements */
 public class RoleManager {
 
+    /** Loads all job roles with skills and keywords */
     public List<JobRole> loadRoles() {
-
         JobRole javaDev = new JobRole(
                 "Java Developer",
                 Arrays.asList("java", "spring", "spring boot", "hibernate", "microservices", "rest api", "git"),
